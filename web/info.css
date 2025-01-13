@@ -1,7 +1,7 @@
 
 
 body{
-  background-color: #fff6E3;
+  background-color: #EFE7E3;
 }
 
 .frame{
@@ -32,13 +32,9 @@ ul{
 
 .site-name{
   margin:0;
-  font-family: "Playwrite AR", serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 24px;
-  font-optical-sizing: auto;
-  color: #C5BAFF;
-
-  /* font-weight: <weight>;
-  font-style: normal; */
+  color: #C2B4AB;
 }
 
 .nav-menu{
@@ -64,7 +60,7 @@ a:hover{
 .dashboard{
   display: flex;
   flex-direction: column;
-  margin-top: 70px;
+  margin-top: 100px;
   margin-bottom: 70px;
 }
 
