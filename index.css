@@ -41,6 +41,8 @@ ul{
   font-style: normal; */
 }
 
+
+
 .nav-menu{
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
@@ -74,8 +76,12 @@ a:hover{
   font-size: 50px;
 }
 
+.highlight_pastel{
+  color: #C5BAFF;
+}
+
 .sample{
-  background-color: pink;
+  background-color: #FFCCEA;
   -webkit-text-stroke: 1px black;
 }
 
