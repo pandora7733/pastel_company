@@ -33,6 +33,7 @@ ul{
 .site-name{
   margin:0;
   font-family: "Playwrite AR", serif;
+  width: 185px;
   font-size: 24px;
   font-optical-sizing: auto;
   color: #C5BAFF;
